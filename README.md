@@ -9,4 +9,3 @@ Instituto de Astronomía, UNAM.
 
 Programa de Arte, Ciencia y Tecnología (ACT) http://artecienciaytecnologias.mx/es/programacion/divulgacion
 
-Noviembre, 2018.
